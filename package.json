@@ -1,0 +1,23 @@
+{
+  "name": "restifyserver",
+  "version": "1.0.0",
+  "description": "Restify Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aethiss/restifyServer.git"
+  },
+  "keywords": [
+    "rest",
+    "server"
+  ],
+  "author": "Aethiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aethiss/restifyServer/issues"
+  },
+  "homepage": "https://github.com/aethiss/restifyServer#readme"
+}
